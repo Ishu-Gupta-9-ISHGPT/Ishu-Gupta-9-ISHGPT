@@ -1,5 +1,5 @@
 
-## Hi there I'm Ishu Gupta👋
+# Hi there I'm Ishu Gupta👋
 
 <!--
 **Ishu-Gupta-9-ISHGPT/Ishu-Gupta-9-ISHGPT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- 💫 About Me:<br>
+ ### 💫 About Me:<br>
 👨‍💻 Frontend Web Developer.<br>🌱 I’m currently learning Angular 17.<br>📈 Project Portfolio: Check out my projects on [GitHub](https://github.com/Ishu-Gupta-9-ISHGPT).<br>💼 Open To Job Opportunities.
 <!--<div style="display: flex; flex-direction: column; align-items: center; font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; line-height: 1.6; color: #333;">
 <div align="center"> 
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishu-Gupta-9-ISHGPT&theme=xcode&hide_border=true" alt="Activity graph">
 </a>-->
 
-# ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 <div align="center" style="font-size: 24px;">
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
